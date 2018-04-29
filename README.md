@@ -1,6 +1,6 @@
 # The-Floor-Is-Lava
 
-This project represents the culmination of the Code Fellows 201 course. We developed a vertical platformer game, which incorporates elements from several realms within Computer Science. Written entirely in Vanilla JavaScript, along with HTML5/CSS, we were tasked with completing this project within 5 business days.
+This project represents the culmination of the Code Fellows 201 course. We developed a vertical platformer game, which incorporates elements from several realms within Computer Science. Written entirely in Vanilla JavaScript, along with HTML5/CSS, we were tasked with completing this project within 4 days.
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/paulritzman/about-me/blob/master/LICENSE) file for details
 
